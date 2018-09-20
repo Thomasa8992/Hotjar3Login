@@ -1,0 +1,7 @@
+C:\Users\athomas1\source\repos\practiceProblems\practiceProblems\bin\Debug\practiceProblems.exe.config
+C:\Users\athomas1\source\repos\practiceProblems\practiceProblems\bin\Debug\practiceProblems.exe
+C:\Users\athomas1\source\repos\practiceProblems\practiceProblems\bin\Debug\practiceProblems.pdb
+C:\Users\athomas1\source\repos\practiceProblems\practiceProblems\obj\Debug\practiceProblems.csprojAssemblyReference.cache
+C:\Users\athomas1\source\repos\practiceProblems\practiceProblems\obj\Debug\practiceProblems.csproj.CoreCompileInputs.cache
+C:\Users\athomas1\source\repos\practiceProblems\practiceProblems\obj\Debug\practiceProblems.exe
+C:\Users\athomas1\source\repos\practiceProblems\practiceProblems\obj\Debug\practiceProblems.pdb
